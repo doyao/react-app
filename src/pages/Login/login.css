@@ -1,0 +1,19 @@
+.logo_back{
+    background-image: url(../../assets/logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  .ant-row-rtl #components-layout-demo-top-side-2 .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  .site-layout-background {
+    background: #fff;
+  }
+  .login_itme > .ant-form-item-label label{
+    color: #fff !important;
+    font-size: 16px !important;
+  }
